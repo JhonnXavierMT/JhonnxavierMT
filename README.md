@@ -11,12 +11,13 @@
 🎓 &nbsp;Soy Tecnico Superior en Sistemas Informaticos del
 Instituto Técnico Comercial Incos El Alto (2021 -2023).\
 🌱 &nbsp;Soy actualmente Estudiante de la carrera de Electronica y Telecomunicaciones en la Universidad Mayor de San Andres (UMSA).\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
+✍️ &nbsp; Actualmente aprendiendo desarrollo de apk mobiles con kotlin (android Estudio).\
 💬 &nbsp;Tengo experiencia en desarrollo web como la realizacion de mi proyecto de grado Sobre :
 
 - Sistema web para la
 administración de textiles
 Caso: Sporty Stitch.\
+
 📄 &nbsp;Tengo certificados de participacion en ditintos cursos tecnologicos como :
 - Desarrollo web moderno con frameworks
 JavaScript
