@@ -1,7 +1,7 @@
 # <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnhpbXU3eG1uOGdnajBxdDEyMGR3dnA0NWRmcWc4cXd6cTdhNzhpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j0HjChGV0J44KrrlGv/giphy.gif" width="100"/> Hola Soy Jhonn bienvenid@ a mi GitHub 👋
 
 ![mi banner de jhonn xmt](banner.png)
-<h2>Conoce mis proyectos</h2>
+<h2>Más informacion:</h2>
 
 <!-- ## 👋 &nbsp;Hola soy jhonn xavier M.T. -->
 
@@ -11,12 +11,12 @@
 🎓 &nbsp;Soy Tecnico Superior en Sistemas Informaticos del
 Instituto Técnico Comercial Incos El Alto (2021 -2023).\
 🌱 &nbsp;Soy actualmente Estudiante de la carrera de Electronica y Telecomunicaciones en la Universidad Mayor de San Andres (UMSA).\
-✍️ &nbsp; Actualmente aprendiendo REACT (2025).\
+✍️ &nbsp; Actualmente aprendiendo REACT.JS (2025).\
 💬 &nbsp;Tengo experiencia en desarrollo web como la realizacion de mi proyecto de grado Sobre :
 
 - Sistema web para la
 administración de textiles
-Caso: Sporty Stitch.\
+Caso: Sporty Stitch.
 
 📄 &nbsp;Tengo certificados de participacion en ditintos cursos tecnologicos como :
 - Desarrollo web moderno con frameworks
@@ -26,10 +26,6 @@ organización: JCI Líderes Sucre y Gold Master
 - Creación de Dibujos técnicos con Photoshop
 organización: JCI Líderes Sucre y Gold Master
 (Noviembre de 2024).
-- Hacking Ético con redes Wifi con Kali Linux a
-Nivel Intermedio Avanzado
-Universidad: UPEA
-(Abril de 2024)
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -42,7 +38,7 @@ Universidad: UPEA
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-### Analisis de GiyHub
+### Analisis de GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
