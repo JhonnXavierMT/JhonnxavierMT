@@ -11,7 +11,7 @@
 🎓 &nbsp;Soy Tecnico Superior en Sistemas Informaticos del
 Instituto Técnico Comercial Incos El Alto (2021 -2023).\
 🌱 &nbsp;Soy actualmente Estudiante de la carrera de Electronica y Telecomunicaciones en la Universidad Mayor de San Andres (UMSA).\
-✍️ &nbsp; Actualmente actualizandome en Laravel 12 (2025).\
+✍️ &nbsp; Actualmente aprendiendo REACT (2025).\
 💬 &nbsp;Tengo experiencia en desarrollo web como la realizacion de mi proyecto de grado Sobre :
 
 - Sistema web para la
