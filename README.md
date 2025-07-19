@@ -18,6 +18,7 @@ Instituto Técnico Comercial Incos El Alto (2021 -2023).\
 sobre Sistema web para la administración de textiles
 Caso: Sporty Stitch.
 - Mini Red Social.
+- Enseñanza de la programación sobre conceptos fundamentales nivel basico medio y avanzado.
 
 📄 &nbsp;Tengo certificados de participacion en ditintos cursos tecnologicos como :
 - Desarrollo web moderno con frameworks
